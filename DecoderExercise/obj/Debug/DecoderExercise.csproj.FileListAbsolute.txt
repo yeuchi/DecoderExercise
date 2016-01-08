@@ -1,0 +1,16 @@
+Z:\ctyeung On My Mac\Documents\Dev\C#\DecoderExercise\DecoderExercise\bin\Debug\DecoderExercise.exe
+Z:\ctyeung On My Mac\Documents\Dev\C#\DecoderExercise\DecoderExercise\bin\Debug\DecoderExercise.pdb
+Z:\ctyeung On My Mac\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\ResolveAssemblyReference.cache
+Z:\ctyeung On My Mac\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\Window1.baml
+Z:\ctyeung On My Mac\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\Wireframe.baml
+Z:\ctyeung On My Mac\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\Window1.g.cs
+Z:\ctyeung On My Mac\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\Wireframe.g.cs
+Z:\ctyeung On My Mac\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\App.g.cs
+Z:\ctyeung On My Mac\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\DecoderExercise_MarkupCompile.cache
+Z:\ctyeung On My Mac\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\DecoderExercise.g.resources
+Z:\ctyeung On My Mac\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\DecoderExercise.Properties.Resources.resources
+Z:\ctyeung On My Mac\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\DecoderExercise.csproj.GenerateResource.Cache
+Z:\ctyeung On My Mac\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\DecoderExercise.exe
+Z:\ctyeung On My Mac\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\DecoderExercise.pdb
+Z:\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\DecoderExercise.exe
+Z:\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\DecoderExercise.pdb
