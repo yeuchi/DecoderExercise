@@ -14,3 +14,17 @@ Z:\ctyeung On My Mac\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\
 Z:\ctyeung On My Mac\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\DecoderExercise.pdb
 Z:\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\DecoderExercise.exe
 Z:\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\DecoderExercise.pdb
+\\vmware-host\Shared Folders\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\DecoderExercise.exe
+\\vmware-host\Shared Folders\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\DecoderExercise.pdb
+\\vmware-host\Shared Folders\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\Window1.baml
+\\vmware-host\Shared Folders\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\Wireframe.baml
+\\vmware-host\Shared Folders\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\Window1.g.cs
+\\vmware-host\Shared Folders\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\Wireframe.g.cs
+\\vmware-host\Shared Folders\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\DecoderExercise_MarkupCompile.cache
+\\vmware-host\Shared Folders\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\DecoderExercise.g.resources
+\\vmware-host\Shared Folders\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\DecoderExercise.Properties.Resources.resources
+\\vmware-host\Shared Folders\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\DecoderExercise.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Documents\Dev\C#\DecoderExercise\DecoderExercise\bin\Debug\DecoderExercise.exe
+\\vmware-host\Shared Folders\Documents\Dev\C#\DecoderExercise\DecoderExercise\bin\Debug\DecoderExercise.pdb
