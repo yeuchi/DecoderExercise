@@ -24,11 +24,6 @@ namespace DecoderExercise
 
         public STLDecoder() { }
 
-        /// <summary>
-        /// Call parser (binary or ascii) to instantiate v0, v1, v2, n collections
-        /// </summary>
-        /// <param name="sFile">file to load</param>
-        /// <returns>success or failure</returns>
         public bool read(string sFile)
         {
             _parser = null;
@@ -55,28 +50,19 @@ namespace DecoderExercise
             return false;
         }
 
-        /// <summary>
-        /// Inquire number of triangles from parser
-        /// </summary>
-        /// <return>
-        /// -1 if failed
-        /// some positive count if success
-        /// </return>
-        public int numTriangles => (null==_parser)?
-                                    -1:
-                                    _parser.numTriangles;
+        public int numTriangles
+        {
+            get
+            {
+                return (null==_parser)?-1:_parser.numTriangles;
+            }
+        }
 
-        /// <summary>
-        /// Request a triangle collection at a particular index
-        /// </summary>
-        /// <param name="value">ArrayList index</param>
-        /// <returns>ArrayList of v0, v1, v2, n</returns>
-        public ArrayList index(int value) =>  _parser?.index(value);
+        public ArrayList index(int value)
+        {
+            return (null == _parser) ? null : _parser.index(value);
+        }
 
-        /// <summary>
-        /// Decode and load items from parser
-        /// </summary>
-        /// <returns>ArrayList of triangles</returns>
         public ArrayList decode()
         {
             ArrayList array = new ArrayList();

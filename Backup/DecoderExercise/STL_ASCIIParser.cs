@@ -33,8 +33,11 @@ namespace DecoderExercise
 
         public void clear()
         {
-            listTriangles?.Clear();
-            listTriangles = null;
+            if (null!=listTriangles)
+            {
+                listTriangles.Clear();
+                listTriangles = null;
+            }
         }
 
         /// <summary>
@@ -71,7 +74,13 @@ namespace DecoderExercise
         /// <returns>
         /// Number of triangles
         /// </returns>
-        override public int numTriangles => listTriangles.Count;
+        override public int numTriangles
+        {
+            get
+            {
+                return listTriangles.Count;
+            }
+        }
 
         /// <summary>
         /// Request a triangle within the collection by index
@@ -115,7 +124,7 @@ namespace DecoderExercise
                      */
                     if (lines[i].Contains("facet"))
                     {
-                        // decode normal -- does it have to be in the same line ?
+                        // decode normal
                         Vector3D n;
                         if(parseNormal(lines[i], out n))
                         {
@@ -137,7 +146,7 @@ namespace DecoderExercise
                             }
 
                             if (index != 3)
-                                throw new Exception($"Lines at: {i.ToString()} Invalid index: {index.ToString()}");
+                                throw new Exception("Lines at: " + i.ToString() + "Invalid index: " + index.ToString());
 
                             // aggregate a triangle collection
                             listTriangles.Add(collection);
@@ -149,7 +158,7 @@ namespace DecoderExercise
             catch (Exception ex)
             {
                 // log error here
-                Trace.WriteLine($"STL_ASCIIParser::parseLine() Exception: {ex}");
+                Trace.WriteLine("STL_ASCIIParser::parseLine() -" + ex);
                 return false;
             }
         }
@@ -190,7 +199,7 @@ namespace DecoderExercise
             }
             catch (Exception ex)
             {
-                throw new Exception($"STL_ASCIIParser::parseNormal() unexpected error - input: {lineNormal} Exception: {ex}");
+                throw new Exception("STL_ASCIIParser::parseNormal() unexpected error - " + lineNormal + ex);
             }
         }
 
@@ -221,12 +230,12 @@ namespace DecoderExercise
                 }
                 else
                 {
-                    throw new Exception($"STL_ASCIIParser::parseVertex() invalid regex parse with input: {lineVertex}");
+                    throw new Exception("STL_ASCIIParser::parseVertex() invalid regex parse - " + lineVertex);
                 }
             }
             catch (Exception ex)
             {
-                throw new Exception($"STL_ASCIIParser::parseVertex() unexpected error with input: {lineVertex} Exception: {ex}");
+                throw new Exception("STL_ASCIIParser::parseVertex() unexpected error - " + lineVertex);
             }
             return false;
         }

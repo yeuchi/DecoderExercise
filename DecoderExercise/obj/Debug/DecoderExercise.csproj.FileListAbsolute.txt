@@ -28,3 +28,16 @@ Z:\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\DecoderExercise.pd
 \\vmware-host\Shared Folders\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\DecoderExercise.csproj.GenerateResource.Cache
 \\vmware-host\Shared Folders\Documents\Dev\C#\DecoderExercise\DecoderExercise\bin\Debug\DecoderExercise.exe
 \\vmware-host\Shared Folders\Documents\Dev\C#\DecoderExercise\DecoderExercise\bin\Debug\DecoderExercise.pdb
+Z:\Documents\Dev\C#\DecoderExercise\DecoderExercise\bin\Debug\DecoderExercise.exe.config
+Z:\Documents\Dev\C#\DecoderExercise\DecoderExercise\bin\Debug\DecoderExercise.exe
+Z:\Documents\Dev\C#\DecoderExercise\DecoderExercise\bin\Debug\DecoderExercise.pdb
+Z:\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\DecoderExercise.csprojResolveAssemblyReference.cache
+Z:\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\Window1.baml
+Z:\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\Wireframe.baml
+Z:\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\Window1.g.cs
+Z:\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\Wireframe.g.cs
+Z:\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\App.g.cs
+Z:\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\DecoderExercise_MarkupCompile.cache
+Z:\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\DecoderExercise.g.resources
+Z:\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\DecoderExercise.Properties.Resources.resources
+Z:\Documents\Dev\C#\DecoderExercise\DecoderExercise\obj\Debug\DecoderExercise.csproj.GenerateResource.Cache
